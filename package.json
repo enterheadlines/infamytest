@@ -1,6 +1,6 @@
 {
   "private": false,
   "dependencies": {
-    "@vercel/edge": "^0.1.2"
+    "index.html": "^0.1.2"
   }
 }
